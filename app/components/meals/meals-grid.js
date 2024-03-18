@@ -1,4 +1,4 @@
-import classes from "./meals-grid.modules.css";
+import classes from "./meals-grid.module.css";
 import MealItem from "./meals-item";
 export default function MealsGrid({ meals }) {
   return (
